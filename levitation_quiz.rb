@@ -8,5 +8,3 @@ def levitation_quiz
   puts "Okay, okay, jeez. I'll stop. Sorry."
 	#your code here
 end
-
-
